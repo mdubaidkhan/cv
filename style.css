@@ -1,0 +1,219 @@
+body
+{
+  margin: 0;
+  text-align: center;
+}
+.topi
+{
+  padding-top: 100px;
+  background-color:#e6e6fa;
+
+}
+h1
+{
+  font-size: 5.6rem;
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-family: 'Reggae', cursive;
+  color:#2f4f4f;
+}
+.proi{
+  text-decoration:underline;
+}
+
+.suni{
+  position:absolute;
+  top: 40px;
+  right: 350px;
+
+}
+.Ii{
+font-family: 'Sacramento', cursive;
+}
+.pi{
+  font-size: 1.8rem;
+  color:#2f4f4f;
+  font-weight: normal;
+
+}
+a{
+  text-decoration: none;
+}
+
+h2{
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.8rem;
+  font-weight: bold;
+  color:#2f4f4f;
+}
+h3
+{
+  font-family: 'Roboto Slab', serif;
+color:#2f4f4f;
+
+
+}
+p
+{
+  font-family: 'Padauk', sans-serif;
+  font-size: 1.5rem;
+}
+.bottom-containeri{
+  position: relative;
+  background-color:#e6e6fa;
+  margin-bottom: 0;
+}
+.mani{
+  position: absolute;
+  top: 0;
+  left: 600px;
+}
+.skill-rowi{
+  margin: 0 auto;
+  padding: 20px;
+  width: 50%;
+text-align: left;
+line-height: 2;
+}
+.naturei{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.kheeri{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.skillsi{
+  margin-bottom: 100px;
+}
+.btni {
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+   color: #FFFFFF;
+   font-family: Tahoma;
+   font-size: 19px;
+   font-weight: 100;
+   padding: 10px;
+   background-color: #11999E;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btni:hover {
+
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.btni{
+  margin-bottom: 30px;
+  border-radius:30px;
+  font-size: 1rem;
+}
+.footer-linki{
+  /* font-family: 'Roboto Slab', serif; */
+  font-size: 1.3rem;
+  margin: 10px;
+  color:#2f4f4f;
+}
+.copy-righti{
+  margin-bottom: 0;
+}
+.h3p{
+  padding-bottom: 10px;
+}
+.h3wd{
+  margin-top: 50px;
+  padding-bottom: 10px;
+  margin-left:200px;
+}
+.h3c{
+  padding-bottom: 10px;
+  margin-left: 380px;
+
+}
+.h3cod{
+  padding-bottom: 10px;
+}
+.kheeri1{
+  padding-top: 30px;
+}
+.h2Class{
+  margin-top: 50px;
+}
+.contact-mei{
+  margin-top: 50px;
+}
+.h2projects{
+  margin-bottom: 40px;
+}
+.carousel{
+  width: 1200px;
+  margin-left: 150px;
+}
+.titlei1{
+  color: #F0FFFF;
+  font-size: 4rem;
+
+}
+.linkcarousel1{
+  color: #6495ED;
+font-size: 2rem;
+
+}
+.titlei2{
+  color:black;
+  font-size: 4rem;
+
+}
+.linkcarousel2{
+  color: black;
+font-size: 2rem;
+
+}
+.titlei3{
+  color: #556B2F;
+  font-size: 4rem;
+
+}
+.linkcarousel3{
+  color: #1E90FF;
+font-size: 2rem;
+
+}
+.titlei4{
+  color: #2F4F4F;
+  font-size: 4rem;
+
+}
+.linkcarousel4{
+  color: #556B2F;
+font-size: 2rem;
+
+}
+.titlei5{
+  color: #556B2F;
+  font-size: 4rem;
+
+}
+.linkcarousel5{
+  color: #DC143C;
+font-size: 2rem;
+
+}
+.netflix{
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
+}
